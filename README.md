@@ -3,6 +3,14 @@ tabgen
 
 *Generate indicator variables for each value of a categorical variable.*
 
+## Installing via *net install*
+
+The current version is still a work in progress. To install, user can use the net install command to download from the project's Github page:
+
+```
+net install tabgen, from("https://aarondwolf.github.io/tabgen")
+```
+
 ## Syntax
 
         tabgen varname [if] [, generate(stubname)]
