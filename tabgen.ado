@@ -1,4 +1,4 @@
-*! version 1.0.1  26aug2019 Aaron Wolf, aaron.wolf@yale.edu
+*! version 1.0.1  26aug2019 Aaron Wolf, aaron.wolf@u.northwestern.edu
 program tabgen, rclass
 	version 15
 	

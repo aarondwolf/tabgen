@@ -1,6 +1,6 @@
 v 0.1
 d tabgen.  Generate indicator variables for each value of a categorical variable.
-d Created by Aaron Wolf (aaron.wolf@yale.edu)
+d Created by Aaron Wolf (aaron.wolf@u.northwestern.edu)
 d
 
 F tabgen.ado

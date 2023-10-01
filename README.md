@@ -67,5 +67,5 @@ You can optionally specify a different stub:
 
 ## Authors
 
-Aaron Wolf, Yale University
-aaron.wolf@yale.edu
+Aaron Wolf, Northwestern University
+aaron.wolf@u.northwestern.edu
